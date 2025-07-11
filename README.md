@@ -67,8 +67,6 @@ These metrics are well-suited for trade network analysis (Antonietti et al., 202
 - Countries with high **closeness** also tend to score high in **eigenvector centrality** — showing both accessibility and influence  
   *(Sugita, Teshima & Seira, 2021)*
 
----
 
-## 📁 Project Structure
 
 
